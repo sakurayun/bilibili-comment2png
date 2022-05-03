@@ -15,7 +15,7 @@
         <img
           class="d-block img-rounded-corners"
           src="./assets/images/BilibiliBVId.gif"
-          alt="获取BVID示例图"
+          alt="获取BV示例图"
         />
         <h5>目前功能特色：</h5>
         <ul>
