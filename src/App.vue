@@ -2,7 +2,7 @@
   <div id="app" class="container">
     <div class="row mt-4">
       <div class="col-12 col-md-6 d-flex flex-column">
-        <h1 class="text-primary mb-4">Bilibili评论转图片神器</h1>
+        <h1 class="text-primary mb-4">B站评论转图片</h1>
         <div class="flex-grow-1">
           <img
             class="d-none d-md-block"
@@ -15,14 +15,14 @@
         <img
           class="d-block img-rounded-corners"
           src="./assets/images/BilibiliBVId.gif"
-          alt="获取BV示例图"
+          alt="获取BV示例"
         />
-        <h5>目前功能特色：</h5>
+        <h5>功能：</h5>
         <ul>
-          <li>无评论获取数量上限</li>
-          <li>自由修改评论外观</li>
-          <li>ZIP压缩包打包下载</li>
-          <li>评论内容为文件名</li>
+          <li>不限制评论获取上限</li>
+          <li>可调整评论区渲染样式</li>
+          <li>支持打包为 ZIP 下载</li>
+          <li>评论内容即文件名称</li>
         </ul>
       </div>
     </div>
