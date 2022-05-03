@@ -1,8 +1,8 @@
 <template>
   <div>
     <p>
-      例如：<a href="#" @click.prevent="sharedState.BVId = '1B7411z7Lk'"
-        >1B7411z7Lk</a
+      例如：<a href="#" @click.prevent="sharedState.BVId = 'BV1qL411A7SV'"
+        >BV1qL411A7SV / 1qL411A7SV</a
       >
     </p>
     <form class="form-inline mb-3">
